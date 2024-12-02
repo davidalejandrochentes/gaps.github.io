@@ -437,6 +437,7 @@ ul.nav li.active a:before {
 #service {
 	text-align:center;
 	padding:2% 0%;
+	background-color: #2bafc917;
 }
 #features-sec {
 	padding: 100px 0;
