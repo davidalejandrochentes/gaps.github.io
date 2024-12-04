@@ -572,8 +572,14 @@ ul.nav li.active a:before {
 	margin-top:20px;
 }
 .tab-img {
-	position:relative;
-	top:50px;
+    position: relative;
+    margin-top: 20px;
+    overflow: hidden;
+}
+.tab-img img {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 /*Portfolio-stylesheets-include-here*/
 #portfolio {
